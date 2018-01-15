@@ -1,7 +1,7 @@
 ## scikit-learn-examples
 Learn someuseful scikit-learn examples.
 
-#Introduction
+# Introduction
 Hi,everyone. 
 
 This is my first project in github. Just for fun. This repository will share all the scikit learn examples on the web site of the scikit-learn.org. the web site is here: http://scikit-learn.org/stable/auto_examples/index.html.
@@ -10,7 +10,7 @@ This is my first project in github. Just for fun. This repository will share all
 Let's learn machine learning together!
 
 
-#General Examples
+# General Examples
 1.plotting Cross-Validated predictions
 2.Concatenating multiple feature extraction methods
 3.pipelining:chaining a PCA and a logistic regression
